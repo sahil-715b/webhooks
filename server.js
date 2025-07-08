@@ -1,5 +1,5 @@
 const express = require("express");
-const fetch = require('node-fetch'); // install this package if not yet
+// const fetch = require('node-fetch'); // install this package if not yet
 
 const app = express();
 const PORT = process.env.PORT || 3000;
